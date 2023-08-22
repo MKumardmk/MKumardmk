@@ -11,7 +11,7 @@
 
 
 - 👋 Hi, I’m @MKumardmk
-- 🔭 I’m currently working as a React & React Native developer
+- 🔭 I’m currently working as a Full Stack Developer
 - 🔭 I’m currently learning Machine learning   
 - 👀 I’m interested in ... 
 - 💞️ I’m looking to collaborate on Python Based Projects
