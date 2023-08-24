@@ -13,7 +13,7 @@
 - 👋 Hi, I’m @MKumardmk
 - 🔭 I’m currently working as a Full Stack Developer
 - 👀 I’m interested in Data Science and Artificial Intelligence and looking for jobs in the same field.
-- 🌱 I’m currently learning Data Science at GUVI institute which operates under IIT-Madras, Chennai.
+- 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on projects related to Data Science and Machine Learning. 
 
 
